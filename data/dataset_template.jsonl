@@ -1,0 +1,4 @@
+{"user_id": "uXXX", "timestamp": "YYYY-MM-DDTHH:MM:SS", "user_msg": "<用户首次目标与时间偏好>", "agent_msg": "<初次确认与计划>", "annotations": {"goal": "<lose_weight|muscle_gain|endurance>", "schedule": "<morning|evening|afternoon>", "frequency": "<3_per_week>"}}
+{"user_id": "uXXX", "timestamp": "YYYY-MM-DDTHH:MM:SS", "user_msg": "<用户偏好变化：时间/器械/目标>", "agent_msg": "<记录偏好变化并调整>", "annotations": {"goal": "<maintenance>", "equipment": "<dumbbell>", "schedule": "<evening>"}}
+{"user_id": "uXXX", "timestamp": "YYYY-MM-DDTHH:MM:SS", "user_msg": "<关键事件：受伤/工作变化/比赛报名>", "agent_msg": "<安全提示与计划调整>", "annotations": {"injury": "<knee>", "life_event": "<company_hike>"}}
+

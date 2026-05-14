@@ -1,0 +1,26 @@
+{"user_id": "u001", "timestamp": "2024-01-03T08:30:00", "user_msg": "你好，我想减脂但不想太累，每周3次，早上比较方便。", "agent_msg": "了解，我们先用低强度有氧和基础力量，安排在早晨。", "annotations": {"goal": "lose_weight", "schedule": "morning", "frequency": "3_per_week"}}
+{"user_id": "u001", "timestamp": "2024-01-06T08:30:00", "user_msg": "我膝盖有点旧伤，跑步会不舒服。", "agent_msg": "好的，我们减少跑步，改为椭圆机和上肢训练。", "annotations": {"injury": "knee"}}
+{"user_id": "u001", "timestamp": "2024-01-31T08:30:00", "user_msg": "最近工作忙，晚上训练更现实。", "agent_msg": "收到，后续计划调整为晚间训练。", "annotations": {"schedule": "evening"}}
+{"user_id": "u001", "timestamp": "2024-03-03T08:30:00", "user_msg": "我买了哑铃，想多做力量训练。", "agent_msg": "很好，我们加入哑铃力量训练模块。", "annotations": {"equipment": "dumbbell", "goal": "strength"}}
+{"user_id": "u001", "timestamp": "2024-05-02T08:30:00", "user_msg": "最近睡眠不好，训练强度能不能再低一点？", "agent_msg": "可以，先降低强度并增加恢复训练。", "annotations": {"life_event": "sleep_issues"}}
+{"user_id": "u001", "timestamp": "2024-07-21T08:30:00", "user_msg": "我准备参加公司徒步活动，需要提升耐力。", "agent_msg": "好的，加入耐力与稳定性训练。", "annotations": {"goal": "endurance", "life_event": "company_hike"}}
+{"user_id": "u001", "timestamp": "2024-09-10T08:30:00", "user_msg": "最近减脂差不多了，想进入维持阶段。", "agent_msg": "了解，我们调整为体重维持和健康体能。", "annotations": {"goal": "maintenance"}}
+{"user_id": "u001", "timestamp": "2024-11-05T08:30:00", "user_msg": "膝盖感觉好很多，想试着慢跑。", "agent_msg": "可以逐步恢复慢跑，注意循序渐进。", "annotations": {"injury": "knee_improved"}}
+{"user_id": "u001", "timestamp": "2025-01-15T08:30:00", "user_msg": "新年想把训练调整到早上。", "agent_msg": "收到，后续安排改为早晨。", "annotations": {"schedule": "morning"}}
+{"user_id": "u002", "timestamp": "2024-02-12T20:00:00", "user_msg": "我想增肌，每周4次，晚上训练方便。", "agent_msg": "好的，增肌计划安排在晚间，每周4次。", "annotations": {"goal": "muscle_gain", "schedule": "evening", "frequency": "4_per_week"}}
+{"user_id": "u002", "timestamp": "2024-03-01T20:00:00", "user_msg": "脚踝扭伤了，这两周要轻一点。", "agent_msg": "明白，降低强度并减少下肢负荷。", "annotations": {"injury": "ankle"}}
+{"user_id": "u002", "timestamp": "2024-04-18T07:30:00", "user_msg": "家里刚添了宝宝，早上更容易抽时间。", "agent_msg": "收到，我们把训练调整到早晨。", "annotations": {"schedule": "morning", "life_event": "new_baby"}}
+{"user_id": "u002", "timestamp": "2024-05-30T07:30:00", "user_msg": "我买了壶铃，想加入一些新动作。", "agent_msg": "好的，加入壶铃训练模块。", "annotations": {"equipment": "kettlebell"}}
+{"user_id": "u002", "timestamp": "2024-07-08T07:30:00", "user_msg": "最近睡眠不好，强度能不能低一点？", "agent_msg": "可以，先做恢复性训练。", "annotations": {"life_event": "sleep_issues"}}
+{"user_id": "u002", "timestamp": "2024-09-02T07:30:00", "user_msg": "我报名了5公里跑，想提升耐力。", "agent_msg": "好的，增加耐力训练。", "annotations": {"goal": "endurance", "life_event": "5k_race"}}
+{"user_id": "u002", "timestamp": "2024-10-20T07:30:00", "user_msg": "周末可以户外训练，想增加长距离。", "agent_msg": "安排周末长距离和户外训练。", "annotations": {"schedule": "weekend_outdoor"}}
+{"user_id": "u002", "timestamp": "2024-12-28T07:30:00", "user_msg": "节假日吃多了，想先减脂。", "agent_msg": "收到，我们切换到减脂计划。", "annotations": {"goal": "lose_weight", "life_event": "holiday"}}
+{"user_id": "u003", "timestamp": "2024-01-20T15:00:00", "user_msg": "我想减重，在家训练更方便，下午有空。", "agent_msg": "了解，我们安排居家下午训练。", "annotations": {"goal": "lose_weight", "schedule": "afternoon", "equipment": "bodyweight"}}
+{"user_id": "u003", "timestamp": "2024-02-25T15:00:00", "user_msg": "我腰背有点酸，动作要轻一点。", "agent_msg": "好的，减少腰背负荷并加强拉伸。", "annotations": {"injury": "back"}}
+{"user_id": "u003", "timestamp": "2024-04-05T19:00:00", "user_msg": "我办了健身房卡，晚上训练更合适。", "agent_msg": "收到，计划调整为晚间健身房训练。", "annotations": {"schedule": "evening", "life_event": "gym_membership"}}
+{"user_id": "u003", "timestamp": "2024-06-15T19:00:00", "user_msg": "我买了运动手表，想根据数据调整。", "agent_msg": "好的，我们根据心率和步数优化训练。", "annotations": {"equipment": "smartwatch"}}
+{"user_id": "u003", "timestamp": "2024-08-01T19:00:00", "user_msg": "考试季很忙，每次训练只能20分钟。", "agent_msg": "明白，安排短时高效训练。", "annotations": {"life_event": "exam_season"}}
+{"user_id": "u003", "timestamp": "2024-10-12T19:00:00", "user_msg": "现在想把目标改成增肌。", "agent_msg": "收到，调整到增肌计划。", "annotations": {"goal": "muscle_gain"}}
+{"user_id": "u003", "timestamp": "2024-11-30T07:00:00", "user_msg": "搬家了，新城市早上训练更方便。", "agent_msg": "了解，改为早晨训练。", "annotations": {"schedule": "morning", "life_event": "move_city"}}
+{"user_id": "u003", "timestamp": "2025-02-05T07:00:00", "user_msg": "我报名了4月的跑步活动，想提升耐力。", "agent_msg": "好的，开始耐力训练周期。", "annotations": {"goal": "endurance", "life_event": "spring_run"}}
+
