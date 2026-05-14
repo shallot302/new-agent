@@ -1,8 +1,9 @@
-# 虚拟环境
+GLM-4-main/
+*.safetensors
+*.bin
 .venv/
 venv/
 env/
-
 # Python
 __pycache__/
 *.pyc
@@ -10,8 +11,7 @@ __pycache__/
 *.pyd
 .Python
 *.so
-
 # IDE
 .vscode/
 .idea/*.safetensors
-GLM-4-main/
+
