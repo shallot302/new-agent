@@ -13,4 +13,5 @@ __pycache__/
 
 # IDE
 .vscode/
-.idea/
+.idea/*.safetensors
+GLM-4-main/
